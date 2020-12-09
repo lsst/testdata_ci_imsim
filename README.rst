@@ -5,8 +5,9 @@
 ``testdata_ci_imsim`` provides a minimal amount of test data sufficient to run
 the Rubin Observatory science pipelines from single frame processing through
 to coaddition processing. This data is sourced from the
-[DC2 simulations](https://lsstdesc.org/DC2-production/), run 2.2i. 
+`DC2 simulations`_, run 2.2i. 
 
+.. _DC2 simulations: https://lsstdesc.org/DC2-production/
 
 Obtaining test data
 ===================
@@ -15,7 +16,7 @@ The data used by ``ci_imsim`` is stored using `Git LFS`_; refer to the
 `relevant documentation`_ for details on how to check out this repository.
 
 .. _Git LFS: https://git-lfs.github.com
-.. _relevant LSST documentation: https://developer.lsst.io/git/git-lfs.html
+.. _relevant documentation: https://developer.lsst.io/git/git-lfs.html
 
 Running the tests
 =================
