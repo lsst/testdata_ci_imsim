@@ -1,0 +1,183 @@
+nohup: ignoring input
+CameraMapper INFO: Loading exposure registry from /datasets/DC2/repoRun2.2i/registry.sqlite3
+CameraMapper INFO: Loading calib registry from /datasets/DC2/repoRun2.2i/CALIB/calibRegistry.sqlite3
+CameraMapper INFO: Loading calib registry from /datasets/DC2/repoRun2.2i/CALIB/calibRegistry.sqlite3
+LsstCamMapper WARN: Unable to find valid calib root directory
+CameraMapper INFO: Loading exposure registry from /datasets/DC2/repoRun2.2i/registry.sqlite3
+CameraMapper INFO: Loading calib registry from /datasets/DC2/repoRun2.2i/CALIB/calibRegistry.sqlite3
+Copying the following visit, ccd, goodpix for u band:
+[(433038, 82, 1822115), (277060, 82, 11186161), (466756, 13, 6110115), (180001, 13, 14321097), (180001, 14, 498460), (466756, 14, 5892744)]
+Validated filename=433038/R21/00433038-R21-S01-det082.fits for visit, ccd = 433038, 082
+parsing filename=flat_u-R21-S01-det082_2022-08-06.fits
+Validated filename=277060/R21/00277060-R21-S01-det082.fits for visit, ccd = 277060, 082
+Skipping ./CALIB/bfkernels/bfKernel-R21-S01-det082.pkl as it already exists
+Skipping ./CALIB/bias/2022-01-01/bias-R21-S01-det082_2022-01-01.fits as it already exists
+Skipping ./CALIB/dark/2022-01-01/dark-R21-S01-det082_2022-01-01.fits as it already exists
+parsing filename=flat_u-R21-S01-det082_2022-08-06.fits
+Skipping ./CALIB/flat/i/2022-08-06/flat_i-R21-S01-det082_2022-08-06.fits as it already exists
+Skipping ./CALIB/SKY/2023-12-01/u/SKY-2023-12-01-u-R21-S01-det082_2023-12-01.fits as it already exists
+Validated filename=466756/R02/00466756-R02-S11-det013.fits for visit, ccd = 466756, 013
+parsing filename=flat_u-R02-S11-det013_2022-08-06.fits
+Validated filename=180001/R02/00180001-R02-S11-det013.fits for visit, ccd = 180001, 013
+Skipping ./CALIB/bfkernels/bfKernel-R02-S11-det013.pkl as it already exists
+Skipping ./CALIB/bias/2022-01-01/bias-R02-S11-det013_2022-01-01.fits as it already exists
+Skipping ./CALIB/dark/2022-01-01/dark-R02-S11-det013_2022-01-01.fits as it already exists
+parsing filename=flat_u-R02-S11-det013_2022-08-06.fits
+Skipping ./CALIB/flat/i/2022-08-06/flat_i-R02-S11-det013_2022-08-06.fits as it already exists
+Skipping ./CALIB/SKY/2023-12-01/u/SKY-2023-12-01-u-R02-S11-det013_2023-12-01.fits as it already exists
+Validated filename=180001/R02/00180001-R02-S12-det014.fits for visit, ccd = 180001, 014
+parsing filename=flat_u-R02-S12-det014_2022-08-06.fits
+Validated filename=466756/R02/00466756-R02-S12-det014.fits for visit, ccd = 466756, 014
+Skipping ./CALIB/bfkernels/bfKernel-R02-S12-det014.pkl as it already exists
+Skipping ./CALIB/bias/2022-01-01/bias-R02-S12-det014_2022-01-01.fits as it already exists
+Skipping ./CALIB/dark/2022-01-01/dark-R02-S12-det014_2022-01-01.fits as it already exists
+parsing filename=flat_u-R02-S12-det014_2022-08-06.fits
+Skipping ./CALIB/flat/i/2022-08-06/flat_i-R02-S12-det014_2022-08-06.fits as it already exists
+Skipping ./CALIB/SKY/2023-12-01/u/SKY-2023-12-01-u-R02-S12-det014_2023-12-01.fits as it already exists
+Copying the following visit, ccd, goodpix for g band:
+[(419000, 48, 2169556), (254379, 48, 9252774), (419000, 51, 6393731), (254379, 51, 6668338), (254358, 54, 5575392), (183772, 54, 6566474)]
+Validated filename=419000/R12/00419000-R12-S10-det048.fits for visit, ccd = 419000, 048
+parsing filename=flat_g-R12-S10-det048_2022-08-06.fits
+Validated filename=254379/R12/00254379-R12-S10-det048.fits for visit, ccd = 254379, 048
+Skipping ./CALIB/bfkernels/bfKernel-R12-S10-det048.pkl as it already exists
+Skipping ./CALIB/bias/2022-01-01/bias-R12-S10-det048_2022-01-01.fits as it already exists
+Skipping ./CALIB/dark/2022-01-01/dark-R12-S10-det048_2022-01-01.fits as it already exists
+parsing filename=flat_g-R12-S10-det048_2022-08-06.fits
+Skipping ./CALIB/flat/i/2022-08-06/flat_i-R12-S10-det048_2022-08-06.fits as it already exists
+Skipping ./CALIB/SKY/2023-12-01/g/SKY-2023-12-01-g-R12-S10-det048_2023-12-01.fits as it already exists
+Validated filename=419000/R12/00419000-R12-S20-det051.fits for visit, ccd = 419000, 051
+parsing filename=flat_g-R12-S20-det051_2022-08-06.fits
+Validated filename=254379/R12/00254379-R12-S20-det051.fits for visit, ccd = 254379, 051
+Skipping ./CALIB/bfkernels/bfKernel-R12-S20-det051.pkl as it already exists
+Skipping ./CALIB/bias/2022-01-01/bias-R12-S20-det051_2022-01-01.fits as it already exists
+Skipping ./CALIB/dark/2022-01-01/dark-R12-S20-det051_2022-01-01.fits as it already exists
+parsing filename=flat_g-R12-S20-det051_2022-08-06.fits
+Skipping ./CALIB/flat/i/2022-08-06/flat_i-R12-S20-det051_2022-08-06.fits as it already exists
+Skipping ./CALIB/SKY/2023-12-01/g/SKY-2023-12-01-g-R12-S20-det051_2023-12-01.fits as it already exists
+Validated filename=254358/R13/00254358-R13-S00-det054.fits for visit, ccd = 254358, 054
+parsing filename=flat_g-R13-S00-det054_2022-08-06.fits
+Validated filename=183772/R13/00183772-R13-S00-det054.fits for visit, ccd = 183772, 054
+Skipping ./CALIB/bfkernels/bfKernel-R13-S00-det054.pkl as it already exists
+Skipping ./CALIB/bias/2022-01-01/bias-R13-S00-det054_2022-01-01.fits as it already exists
+Skipping ./CALIB/dark/2022-01-01/dark-R13-S00-det054_2022-01-01.fits as it already exists
+parsing filename=flat_g-R13-S00-det054_2022-08-06.fits
+Skipping ./CALIB/flat/i/2022-08-06/flat_i-R13-S00-det054_2022-08-06.fits as it already exists
+Skipping ./CALIB/SKY/2023-12-01/g/SKY-2023-12-01-g-R13-S00-det054_2023-12-01.fits as it already exists
+Copying the following visit, ccd, goodpix for r band:
+[(257768, 161, 811026), (212739, 161, 9174582), (213545, 99, 4221524), (456716, 99, 12646899), (212071, 54, 8660670), (448317, 54, 13226817)]
+Validated filename=257768/R34/00257768-R34-S22-det161.fits for visit, ccd = 257768, 161
+parsing filename=flat_r-R34-S22-det161_2022-08-06.fits
+Validated filename=212739/R34/00212739-R34-S22-det161.fits for visit, ccd = 212739, 161
+Skipping ./CALIB/bfkernels/bfKernel-R34-S22-det161.pkl as it already exists
+Skipping ./CALIB/bias/2022-01-01/bias-R34-S22-det161_2022-01-01.fits as it already exists
+Skipping ./CALIB/dark/2022-01-01/dark-R34-S22-det161_2022-01-01.fits as it already exists
+parsing filename=flat_r-R34-S22-det161_2022-08-06.fits
+Skipping ./CALIB/flat/i/2022-08-06/flat_i-R34-S22-det161_2022-08-06.fits as it already exists
+Skipping ./CALIB/SKY/2023-12-01/r/SKY-2023-12-01-r-R34-S22-det161_2023-12-01.fits as it already exists
+Validated filename=213545/R23/00213545-R23-S00-det099.fits for visit, ccd = 213545, 099
+parsing filename=flat_r-R23-S00-det099_2022-08-06.fits
+Validated filename=456716/R23/00456716-R23-S00-det099.fits for visit, ccd = 456716, 099
+Skipping ./CALIB/bfkernels/bfKernel-R23-S00-det099.pkl as it already exists
+Skipping ./CALIB/bias/2022-01-01/bias-R23-S00-det099_2022-01-01.fits as it already exists
+Skipping ./CALIB/dark/2022-01-01/dark-R23-S00-det099_2022-01-01.fits as it already exists
+parsing filename=flat_r-R23-S00-det099_2022-08-06.fits
+Skipping ./CALIB/flat/i/2022-08-06/flat_i-R23-S00-det099_2022-08-06.fits as it already exists
+Skipping ./CALIB/SKY/2023-12-01/r/SKY-2023-12-01-r-R23-S00-det099_2023-12-01.fits as it already exists
+Validated filename=212071/R13/00212071-R13-S00-det054.fits for visit, ccd = 212071, 054
+Skipping ./CALIB/bfkernels/bfKernel-R13-S00-det054.pkl as it already exists
+Skipping ./CALIB/bias/2022-01-01/bias-R13-S00-det054_2022-01-01.fits as it already exists
+Skipping ./CALIB/dark/2022-01-01/dark-R13-S00-det054_2022-01-01.fits as it already exists
+parsing filename=flat_r-R13-S00-det054_2022-08-06.fits
+Skipping ./CALIB/flat/i/2022-08-06/flat_i-R13-S00-det054_2022-08-06.fits as it already exists
+Validated filename=448317/R13/00448317-R13-S00-det054.fits for visit, ccd = 448317, 054
+Skipping ./CALIB/bfkernels/bfKernel-R13-S00-det054.pkl as it already exists
+Skipping ./CALIB/bias/2022-01-01/bias-R13-S00-det054_2022-01-01.fits as it already exists
+Skipping ./CALIB/dark/2022-01-01/dark-R13-S00-det054_2022-01-01.fits as it already exists
+parsing filename=flat_r-R13-S00-det054_2022-08-06.fits
+Skipping ./CALIB/flat/i/2022-08-06/flat_i-R13-S00-det054_2022-08-06.fits as it already exists
+Skipping ./CALIB/SKY/2023-12-01/r/SKY-2023-12-01-r-R13-S00-det054_2023-12-01.fits as it already exists
+Copying the following visit, ccd, goodpix for i band:
+[(256383, 26, 560921), (227976, 26, 12230586), (227951, 54, 164468), (280217, 54, 10933520), (211545, 138, 8934687), (496989, 138, 12089520)]
+Validated filename=256383/R03/00256383-R03-S22-det026.fits for visit, ccd = 256383, 026
+Validated filename=227976/R03/00227976-R03-S22-det026.fits for visit, ccd = 227976, 026
+Skipping ./CALIB/bfkernels/bfKernel-R03-S22-det026.pkl as it already exists
+Skipping ./CALIB/bias/2022-01-01/bias-R03-S22-det026_2022-01-01.fits as it already exists
+Skipping ./CALIB/dark/2022-01-01/dark-R03-S22-det026_2022-01-01.fits as it already exists
+Skipping ./CALIB/flat/i/2022-08-06/flat_i-R03-S22-det026_2022-08-06.fits as it already exists
+Skipping ./CALIB/SKY/2023-12-01/i/SKY-2023-12-01-i-R03-S22-det026_2023-12-01.fits as it already exists
+Validated filename=227951/R13/00227951-R13-S00-det054.fits for visit, ccd = 227951, 054
+Skipping ./CALIB/bfkernels/bfKernel-R13-S00-det054.pkl as it already exists
+Skipping ./CALIB/bias/2022-01-01/bias-R13-S00-det054_2022-01-01.fits as it already exists
+Skipping ./CALIB/dark/2022-01-01/dark-R13-S00-det054_2022-01-01.fits as it already exists
+Skipping ./CALIB/flat/i/2022-08-06/flat_i-R13-S00-det054_2022-08-06.fits as it already exists
+Validated filename=280217/R13/00280217-R13-S00-det054.fits for visit, ccd = 280217, 054
+Skipping ./CALIB/bfkernels/bfKernel-R13-S00-det054.pkl as it already exists
+Skipping ./CALIB/bias/2022-01-01/bias-R13-S00-det054_2022-01-01.fits as it already exists
+Skipping ./CALIB/dark/2022-01-01/dark-R13-S00-det054_2022-01-01.fits as it already exists
+Skipping ./CALIB/flat/i/2022-08-06/flat_i-R13-S00-det054_2022-08-06.fits as it already exists
+Skipping ./CALIB/SKY/2023-12-01/i/SKY-2023-12-01-i-R13-S00-det054_2023-12-01.fits as it already exists
+Validated filename=211545/R32/00211545-R32-S10-det138.fits for visit, ccd = 211545, 138
+Validated filename=496989/R32/00496989-R32-S10-det138.fits for visit, ccd = 496989, 138
+Skipping ./CALIB/bfkernels/bfKernel-R32-S10-det138.pkl as it already exists
+Skipping ./CALIB/bias/2022-01-01/bias-R32-S10-det138_2022-01-01.fits as it already exists
+Skipping ./CALIB/dark/2022-01-01/dark-R32-S10-det138_2022-01-01.fits as it already exists
+Skipping ./CALIB/flat/i/2022-08-06/flat_i-R32-S10-det138_2022-08-06.fits as it already exists
+Skipping ./CALIB/SKY/2023-12-01/i/SKY-2023-12-01-i-R32-S10-det138_2023-12-01.fits as it already exists
+Copying the following visit, ccd, goodpix for z band:
+[(226983, 36, 1218975), (209018, 36, 13983802), (209018, 37, 222593), (226983, 37, 10068618), (8003, 76, 881935), (209063, 76, 13413661)]
+Validated filename=226983/R11/00226983-R11-S00-det036.fits for visit, ccd = 226983, 036
+parsing filename=flat_z-R11-S00-det036_2022-08-06.fits
+Validated filename=209018/R11/00209018-R11-S00-det036.fits for visit, ccd = 209018, 036
+Skipping ./CALIB/bfkernels/bfKernel-R11-S00-det036.pkl as it already exists
+Skipping ./CALIB/bias/2022-01-01/bias-R11-S00-det036_2022-01-01.fits as it already exists
+Skipping ./CALIB/dark/2022-01-01/dark-R11-S00-det036_2022-01-01.fits as it already exists
+parsing filename=flat_z-R11-S00-det036_2022-08-06.fits
+Skipping ./CALIB/flat/i/2022-08-06/flat_i-R11-S00-det036_2022-08-06.fits as it already exists
+Skipping ./CALIB/SKY/2023-12-01/z/SKY-2023-12-01-z-R11-S00-det036_2023-12-01.fits as it already exists
+Validated filename=209018/R11/00209018-R11-S01-det037.fits for visit, ccd = 209018, 037
+parsing filename=flat_z-R11-S01-det037_2022-08-06.fits
+Validated filename=226983/R11/00226983-R11-S01-det037.fits for visit, ccd = 226983, 037
+Skipping ./CALIB/bfkernels/bfKernel-R11-S01-det037.pkl as it already exists
+Skipping ./CALIB/bias/2022-01-01/bias-R11-S01-det037_2022-01-01.fits as it already exists
+Skipping ./CALIB/dark/2022-01-01/dark-R11-S01-det037_2022-01-01.fits as it already exists
+parsing filename=flat_z-R11-S01-det037_2022-08-06.fits
+Skipping ./CALIB/flat/i/2022-08-06/flat_i-R11-S01-det037_2022-08-06.fits as it already exists
+Skipping ./CALIB/SKY/2023-12-01/z/SKY-2023-12-01-z-R11-S01-det037_2023-12-01.fits as it already exists
+Validated filename=8003/R20/00008003-R20-S11-det076.fits for visit, ccd = 8003, 076
+parsing filename=flat_z-R20-S11-det076_2022-08-06.fits
+Validated filename=209063/R20/00209063-R20-S11-det076.fits for visit, ccd = 209063, 076
+Skipping ./CALIB/bfkernels/bfKernel-R20-S11-det076.pkl as it already exists
+Skipping ./CALIB/bias/2022-01-01/bias-R20-S11-det076_2022-01-01.fits as it already exists
+Skipping ./CALIB/dark/2022-01-01/dark-R20-S11-det076_2022-01-01.fits as it already exists
+parsing filename=flat_z-R20-S11-det076_2022-08-06.fits
+Skipping ./CALIB/flat/i/2022-08-06/flat_i-R20-S11-det076_2022-08-06.fits as it already exists
+Skipping ./CALIB/SKY/2023-12-01/z/SKY-2023-12-01-z-R20-S11-det076_2023-12-01.fits as it already exists
+Copying the following visit, ccd, goodpix for y band:
+[(189382, 130, 233710), (407919, 130, 14244955), (37657, 141, 779507), (12466, 141, 10844129), (206039, 55, 1035266), (5884, 55, 13637973)]
+Validated filename=189382/R31/00189382-R31-S11-det130.fits for visit, ccd = 189382, 130
+parsing filename=flat_y-R31-S11-det130_2022-08-06.fits
+Validated filename=407919/R31/00407919-R31-S11-det130.fits for visit, ccd = 407919, 130
+Skipping ./CALIB/bfkernels/bfKernel-R31-S11-det130.pkl as it already exists
+Skipping ./CALIB/bias/2022-01-01/bias-R31-S11-det130_2022-01-01.fits as it already exists
+Skipping ./CALIB/dark/2022-01-01/dark-R31-S11-det130_2022-01-01.fits as it already exists
+parsing filename=flat_y-R31-S11-det130_2022-08-06.fits
+Skipping ./CALIB/flat/i/2022-08-06/flat_i-R31-S11-det130_2022-08-06.fits as it already exists
+Skipping ./CALIB/SKY/2023-12-01/y/SKY-2023-12-01-y-R31-S11-det130_2023-12-01.fits as it already exists
+Validated filename=37657/R32/00037657-R32-S20-det141.fits for visit, ccd = 37657, 141
+parsing filename=flat_y-R32-S20-det141_2022-08-06.fits
+Validated filename=12466/R32/00012466-R32-S20-det141.fits for visit, ccd = 12466, 141
+Skipping ./CALIB/bfkernels/bfKernel-R32-S20-det141.pkl as it already exists
+Skipping ./CALIB/bias/2022-01-01/bias-R32-S20-det141_2022-01-01.fits as it already exists
+Skipping ./CALIB/dark/2022-01-01/dark-R32-S20-det141_2022-01-01.fits as it already exists
+parsing filename=flat_y-R32-S20-det141_2022-08-06.fits
+Skipping ./CALIB/flat/i/2022-08-06/flat_i-R32-S20-det141_2022-08-06.fits as it already exists
+Skipping ./CALIB/SKY/2023-12-01/y/SKY-2023-12-01-y-R32-S20-det141_2023-12-01.fits as it already exists
+Validated filename=206039/R13/00206039-R13-S01-det055.fits for visit, ccd = 206039, 055
+parsing filename=flat_y-R13-S01-det055_2022-08-06.fits
+Validated filename=5884/R13/00005884-R13-S01-det055.fits for visit, ccd = 5884, 055
+Skipping ./CALIB/bfkernels/bfKernel-R13-S01-det055.pkl as it already exists
+Skipping ./CALIB/bias/2022-01-01/bias-R13-S01-det055_2022-01-01.fits as it already exists
+Skipping ./CALIB/dark/2022-01-01/dark-R13-S01-det055_2022-01-01.fits as it already exists
+parsing filename=flat_y-R13-S01-det055_2022-08-06.fits
+Skipping ./CALIB/flat/i/2022-08-06/flat_i-R13-S01-det055_2022-08-06.fits as it already exists
+Skipping ./CALIB/SKY/2023-12-01/y/SKY-2023-12-01-y-R13-S01-det055_2023-12-01.fits as it already exists
