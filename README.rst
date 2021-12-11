@@ -36,11 +36,17 @@ Reference catalog
 
 An appropriate reference catalog for both astrometry and photometry is
 provided in the ``ref_cats`` directory. This reference catalog contains the 
-input values with errors, as well as a flag for whether each source is 
-extended or resolved.
+input values, as well as a flag for whether each source is resolved.
+
+Truth table
+-----------
+
+A parquet-formatted ``truth_summary`` table for the entire tract is included.
+See `PREOPS-584 <https://jira.lsstcorp.org/browse/PREOPS-584>`_ for details.
 
 Visits
 ------
+
 The visit/detectors contained in this dataset (taken from copy_data.log) are:
 
 u:
