@@ -44,6 +44,12 @@ Truth table
 A parquet-formatted ``truth_summary`` table for the entire tract is included.
 See `PREOPS-584 <https://jira.lsstcorp.org/browse/PREOPS-584>`_ for details.
 
+Red Galaxy Table
+----------------
+
+A parquet-formatted ``cosmodc2_1_1_4_redmapper_v0_8_1_redgals`` red galaxy truth table is included.
+See `DM-33957 <https://jira.lsstcorp.org/browse/DM-33957>`_ for details.
+
 Visits
 ------
 
